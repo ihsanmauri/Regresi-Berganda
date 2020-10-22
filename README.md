@@ -1,2 +1,2 @@
 # Telkom-DTI
-Bagian dari tugas minggu ke-4
+Repository ini dibuat untuk memenuhi kebutuhan tugas
