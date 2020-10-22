@@ -1,2 +1,5 @@
-Tugas minggu ke-4 
-Mengenai analisa regresi dari data penjualan pie
+# Analisa Regresi dari Pie Sales
+Tugas minggu ke-4 dari Telkom-DTI
+
+
+
